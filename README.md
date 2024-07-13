@@ -42,9 +42,9 @@ by `freeCodeCamp`, `John Smilga`
 29. Sup And Sub Elements
 30. Strong And Em Elements
 31. Special Characters In Html
-32.
-33.
-34.
+32. Unordered Lists
+33. Ordered Lists
+34. Nested Lists
 35.
 36.
 37.
