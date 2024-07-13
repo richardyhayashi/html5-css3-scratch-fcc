@@ -17,9 +17,9 @@ by `freeCodeCamp`, `John Smilga`
 11. Implementing Basic Document Structure
 12. Word Wrap and Emmet
 13. Heading Elements
-14.
-15.
-16.
+14. Paragraph Elements
+15. White Space Collapsing
+16. Lorem Ipsum Dummy Text
 17.
 18.
 19.
