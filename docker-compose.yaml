@@ -1,0 +1,13 @@
+services:
+  nginx:
+    image: nginx-html5-css3:1.0
+    build:
+      context: . 
+      dockerfile: Dockerfile
+    container_name: nginx-html5-css3_c
+    restart: unless-stopped
+    ports:
+      - ${NGINX_PORT_OUT}:${NGINX_PORT}
+    volumes:
+      - ./etc/nginx/conf.d:/etc/nginx/conf.d:ro
+      - ./src:/usr/share/nginx/html:ro
