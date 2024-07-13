@@ -39,7 +39,7 @@ by `freeCodeCamp`, `John Smilga`
 26. Internal Links
 27. Links Within Page
 28. Empty Links
-29.
+29. Sup And Sub Elements
 30.
 31.
 32.
