@@ -41,7 +41,7 @@ by `freeCodeCamp`, `John Smilga`
 28. Empty Links
 29. Sup And Sub Elements
 30. Strong And Em Elements
-31.
+31. Special Characters In Html
 32.
 33.
 34.
