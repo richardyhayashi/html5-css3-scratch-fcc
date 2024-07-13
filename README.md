@@ -34,7 +34,7 @@ by `freeCodeCamp`, `John Smilga`
 21. Width and Height Attribute
 22. Crop Images
 23. Proper Path
-24.
+24. Comments And Line Breaks
 25.
 26.
 27.
