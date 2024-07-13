@@ -1,5 +1,12 @@
 # Learn HTML5 and CSS3 From Scratch - FullCourse
 
+## Images
+
+From:
+* Pixabay
+* Pexels
+* Gratisography
+
 ## YouTube
 
 by `freeCodeCamp`, `John Smilga`
@@ -20,7 +27,17 @@ by `freeCodeCamp`, `John Smilga`
 14. Paragraph Elements
 15. White Space Collapsing
 16. Lorem Ipsum Dummy Text
-17.
-18.
-19.
-20.
+17. Images
+18. Multiple Path Options
+19. External Images
+20. Nice Images
+21. Width and Height Attribute
+22. Crop Images
+23. Proper Path
+24.
+25.
+26.
+27.
+28.
+29.
+30.
