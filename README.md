@@ -45,7 +45,7 @@ by `freeCodeCamp`, `John Smilga`
 32. Unordered Lists
 33. Ordered Lists
 34. Nested Lists
-35.
+35. Table Element
 36.
 37.
 38.
