@@ -40,7 +40,7 @@ by `freeCodeCamp`, `John Smilga`
 27. Links Within Page
 28. Empty Links
 29. Sup And Sub Elements
-30.
+30. Strong And Em Elements
 31.
 32.
 33.
