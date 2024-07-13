@@ -11,12 +11,12 @@ by `freeCodeCamp`, `John Smilga`
 5. Download Visual Studio Code
 6. Create A Project
 7. First Webpage
-8.
-9.
-10.
-11.
-12.
-13.
+8. Visual Code Settings
+9. Download Live Server Extension
+10. Basic HTML Document Structure
+11. Implementing Basic Document Structure
+12. Word Wrap and Emmet
+13. Heading Elements
 14.
 15.
 16.
